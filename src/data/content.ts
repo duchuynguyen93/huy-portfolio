@@ -10,7 +10,7 @@ export const profile = {
   blurb:
     "I'm a front-end engineer who thinks in systems. I care less about closing a single ticket and more about how the whole thing scales: architecture, extensibility, the mechanism beneath the abstraction. When I hit something I don't understand, I keep asking \"why\" until I reach the bottom.",
   location: "Vietnam",
-  email: "liemnc@cloudenterprise.vn",
+  email: "duchuynguyen93@gmail.com",
   // Update these to your real handles:
   github: "https://github.com/your-username",
   linkedin: "",
