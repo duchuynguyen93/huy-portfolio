@@ -12,7 +12,7 @@ export const profile = {
   location: "Vietnam",
   email: "duchuynguyen93@gmail.com",
   // Update these to your real handles:
-  github: "https://github.com/your-username",
+  github: "https://github.com/duchuynguyen93",
   linkedin: "",
 };
 
